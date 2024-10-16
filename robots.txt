@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dasetulofowo.pages.dev/sitemap.xml
